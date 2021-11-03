@@ -23,9 +23,11 @@ body {
 h1{
     color:black;
     text-align:center;
+    text-shadow: -1px 0 #FFF8DC, 0 1px #FFF8DC, 1px 0 #FFF8DC, 0 -1px #FFF8DC;
 }
 
-h1 :hover {
+h1:hover 
+{
     color:#CD5C5C;
 }
 
